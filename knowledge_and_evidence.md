@@ -79,7 +79,7 @@ python3 main.py
    | Object      | Type   |
    |-------------|--------|
    | self.pixels | list   |
-   |             | str    |
+   | Not Found   | str    |
    | self        | Smiley |
 
  
